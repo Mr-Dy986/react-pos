@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 123,
+      "name": "Water",
+      "price": "1500",
+      "image": "https://thestreet7makara.netlify.app/static/media/VitalWater500ml.dffc1f3a.png"
+    },
+    {
+      "id": 124,
+      "name": "CocaCola",
+      "price": "2500",
+      "image": "https://thestreet7makara.netlify.app/static/media/CocaColaCan.b04cddee.png"
+    },
+    {
+      "id": 125,
+      "name": "Sprite",
+      "price": "2500",
+      "image": "https://thestreet7makara.netlify.app/static/media/SpriteCan.58e3667a.png"
+    },
+    {
+      "id": 126,
+      "name": "Samurai",
+      "price": "2500",
+      "image": "https://thestreet7makara.netlify.app/static/media/SamuraiStrawberryCan.07ae8091.png"
+    },
+    {
+      "id": 127,
+      "name": "ReadBull",
+      "price": "3000",
+      "image": "https://thestreet7makara.netlify.app/static/media/RedBullCan.9ac4e65d.png"
+    }
+  ]
+}

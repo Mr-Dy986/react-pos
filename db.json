@@ -1,0 +1,34 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "ទឹកសុទ្ធ",
+      "price": "1500",
+      "image": "https://lh3.googleusercontent.com/yIlWbfFVDlY8yt1fVAgcZnDpV1miCq4o0pM6zBlJllnTxu13Mj0sYpFGQX72sjOsmta8UYYtyZ0MDbI=s239-c"
+    },
+    {
+      "id": 2,
+      "name": "CocaCola",
+      "price": "2500",
+      "image": "https://lh3.googleusercontent.com/AtruFsIYOgbUPUrHVrwLAQJyG7qYWwpcW8xOwQYuO2wXPXFlEbJkK1zzbf8dpx15Y-c8wvs3u1rE6ik=s239-c"
+    },
+    {
+      "id": 3,
+      "name": "Sprite",
+      "price": "2500",
+      "image": "https://lh3.googleusercontent.com/r9SRCYL55PBaGsB5g2Lx_FFPqQad128lnBp5thmbEoK8TfGeUjYQ-g_m0ngkXITR0gr2cz5bd4SyB1Y=s239-c"
+    },
+    {
+      "id": 4,
+      "name": "Samurai",
+      "price": "2500",
+      "image": "https://lh3.googleusercontent.com/q-MMAgXRNLBfl_IUXRF2Om4wVkS_0vRkRUtsi6BEwNdR39c6ICx6GQRgCkT2vNZcJDGnub1y6vTctFo=s239-c"
+    },
+    {
+      "id": 5,
+      "name": "គោជល់",
+      "price": "3000",
+      "image": "https://lh3.googleusercontent.com/BXf-KXnvbwaVavcWLNCh5fdRNmURkI3G1M0sEwwVm_5zXuTytbUpwEaGAuf0it0Ge4z7bS37hZ2uHfs=s239-c"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "id": "{123}",
+            "name": "{productname}",
+            "price": "{productprice}",
+            "image": "{productimage}"
+        },
+        {
+            "id": "{123}",
+            "name": "{productname}",
+            "price": "{productprice}",
+            "image": "{productimage}"
+        },
+        {
+            "id": "{123}",
+            "name": "{productname}",
+            "price": "{productprice}",
+            "image": "{productimage}"
+        },
+        {
+            "id": "{123}",
+            "name": "{productname}",
+            "price": "{productprice}",
+            "image": "{productimage}"
+        },
+        {
+            "id": "{123}",
+            "name": "{productname}",
+            "price": "{productprice}",
+            "image": "{productimage}"
+        }
+    ]
+}

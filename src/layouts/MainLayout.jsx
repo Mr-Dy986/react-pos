@@ -10,7 +10,7 @@ function MainLayout ({ children }) {
         <nav className="navbar navbar-light bg-primary">
           <div className="container">
             <Link to="/" className="navbar-brand">
-              ផ្លូវ-The Street POS
+              <a class="navbar-brand" href="/">ផ្លូវ-The Street POS</a>
             </Link>
           </div>
         </nav>

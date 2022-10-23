@@ -10,6 +10,7 @@
     "axios": "^0.27.2",
     "bootstrap": "^5.2.1",
     "firebase": "^9.12.1",
+    "firebase-admin": "^11.2.0",
     "js-flipper": "^0.164.0",
     "json-server": "^0.17.0",
     "react": "^18.1.0",
